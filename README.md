@@ -1,3 +1,7 @@
+#Adaption for Kiloee
+
+This is an adaption of the keyboard for my preferences, which mainly means a more aggressive pinky stagger and a little rearrangement of the thumb keys.
+
 # Sofle Keyboard
 
 ![SofleKeyboard](docs/images/sofle_keyboard.jpg)
